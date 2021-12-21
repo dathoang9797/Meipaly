@@ -468,6 +468,10 @@ ul.slick-dots li.slick-active button:before {
   cursor: pointer;
 }
 
+.btnDangXuat {
+  color: red;
+}
+
 /* ANIMATION */
 @keyframes carousel__scroll__down {
   0% {
